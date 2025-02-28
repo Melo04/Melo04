@@ -1,4 +1,4 @@
-<h2>Hey there👋, I'm <a href="https://melodykoh.tech/">Melody</a></h2>
+<h2>Hey there👋, I'm Melody</h2>
 <p>Currently a final year Computer Science student at Multimedia University (MMU) and working as a Data Engineer Intern in Grab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 ## Tech Stack
